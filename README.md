@@ -1,5 +1,5 @@
-# myBlogApi!
-Welcome to the Blog API!
+# Welcome to the Blog API!
+
 
 BlogAPI was built with Java Spring, and it provides an easy-to-use solution for managing blog posts and comments. With authentication and authorization features, you can be sure that only authorized users can access the data they are permitted to.
 
